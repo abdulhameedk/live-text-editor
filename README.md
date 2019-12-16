@@ -30,6 +30,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## To Run the project
 
 clone the project
+
 cd 'into the file directory'
+
 npm i 
+
 ng serve
