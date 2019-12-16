@@ -5,8 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## To Run the project
 
 clone the project
+
 cd 'into the file directory'
+
 npm i 
+
 ng serve
 
 
