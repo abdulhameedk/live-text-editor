@@ -4799,3 +4799,17 @@ span.fr-img-caption.fr-view.fr-dii.fr-fir {
 a#logo {
     display: none !important;
 }
+
+
+td>p:last-child {
+    display: none !important;
+}
+
+
+div#editor>div:nth-child(3)>div:nth-child(1) {
+    display: none !important;
+}
+
+div#editor>div:nth-child(3)>span {
+    margin-top: 0px !important;
+}
